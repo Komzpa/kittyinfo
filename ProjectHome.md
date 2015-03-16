@@ -1,0 +1,1 @@
+KittyInfo is a project aimed at creation of open source drop-in replacement for commercial City GIS'es like ESMA CityInfo or 2gis.
